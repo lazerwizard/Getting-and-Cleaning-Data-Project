@@ -1,6 +1,8 @@
-#The data
+#CodeBook
 
-T##he dataset includes the following files:
+##The data
+
+The dataset includes the following files:
 
 'README.txt'
 
@@ -28,9 +30,9 @@ T##he dataset includes the following files:
 
 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
-#Transformation details
+##Transformation details
 
-##There are 5 parts:
+There are 5 parts:
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
